@@ -1,0 +1,1 @@
+console.log('Hello world! Please contact me via LinkedIn if you would like to work with me.');
